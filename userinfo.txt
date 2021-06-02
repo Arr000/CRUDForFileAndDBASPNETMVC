@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User>
+    <Id>0</Id>
+    <Email>arash_shahinzadeh@hotmail.com</Email>
+    <FirstName>Kaka</FirstName>
+    <LastName>Leito</LastName>
+    <Country>Uruguay</Country>
+    <Hobby>Tennis</Hobby>
+  </User>
+  <User>
+    <Id>0</Id>
+    <Email>shahramshahram@hotmail.com</Email>
+    <FirstName>Romario</FirstName>
+    <LastName>Gaucho</LastName>
+    <Country>Iran</Country>
+    <Hobby>Paddel</Hobby>
+  </User>
+</ArrayOfUser>
